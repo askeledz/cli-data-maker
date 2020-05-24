@@ -1,0 +1,33 @@
+{
+  "name": "cdm",
+  "version": "1.0.0",
+  "description": "CLI Data Maker",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "data",
+    "maker",
+    "api",
+    "rest"
+  ],
+  "author": "Andrej Skeledzija",
+  "license": "ISC",
+  "bin": {
+    "cdm": "./bin/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "boxen": "^4.0.0",
+    "btoa": "^1.2.1",
+    "chai": "^4.2.0",
+    "chalk": "^2.4.2",
+    "config": "^3.3.1",
+    "request": "^2.88.2",
+    "superagent": "^5.2.2",
+    "xml2js": "^0.4.23",
+    "yargs": "^13.2.4"
+  }
+}
