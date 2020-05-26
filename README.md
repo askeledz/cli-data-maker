@@ -15,3 +15,8 @@ Options:
  > -c, --count         Sample count                           [number] [required]
  
  > -s, --sampleprefix  Sample prefix                          [string] [required]
+
+# e.g.
+  > node ./bin/index.js -c 100 -s
+  
+  > Results: Sample: ESP1590489444297 Time: 0:30
