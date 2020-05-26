@@ -4,7 +4,7 @@
 
 
 # Usage: 
-  - cdm -c <sumple_count> -s <sample_name_prefix>
+  > cdm -c <sumple_count> -s <sample_name_prefix>
 
 Options:
 
