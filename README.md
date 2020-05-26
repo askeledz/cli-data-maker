@@ -4,6 +4,7 @@
 
 
 **Usage:**
+    
     > cdm -c <sumple_count> -s <sample_name_prefix>
 
 **Options:**
@@ -17,6 +18,7 @@
     > -s, --sampleprefix  Sample prefix                          [string] [required]
 
 **e.g.**
+    
     > node ./bin/index.js -c 100 -s
   
     > Results: Sample: ESP1590489444297 Time: 0:30
