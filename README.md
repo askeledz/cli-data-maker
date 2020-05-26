@@ -1,12 +1,12 @@
-# CLI Data Maker
+## CLI Data Maker
   - git clone
   - npm install -g .
 
 
-# Usage: 
+**Usage:**
   > cdm -c <sumple_count> -s <sample_name_prefix>
 
-Options:
+**Options:**
 
  > --help              Show help                                        [boolean]
  
@@ -16,7 +16,7 @@ Options:
  
  > -s, --sampleprefix  Sample prefix                          [string] [required]
 
-# e.g.
+**e.g.**
   > node ./bin/index.js -c 100 -s
   
   > Results: Sample: ESP1590489444297 Time: 0:30
