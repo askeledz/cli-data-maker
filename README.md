@@ -30,7 +30,7 @@
 - Place the word "debugger" anywhere you want to stop execution. 
 - Run the program with node inspect (e.g. node **inspect** ./bin/index.js -c 100 -s AS).
 - Open Chrome and type "chrome://inspect/#devices" in the address bar.
-- Under configure section import following:
+- Under the section import, set the following::
     - localhost:9229
     - 127.0.0.1:9229
 - Remote Target should show two identical apps running.
