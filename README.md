@@ -19,7 +19,7 @@
 
 **e.g.**
     
-    > node ./bin/index.js -c 100 -s
+    > node ./bin/index.js -c 100 -s AS
     OR
     > cdm -c 100 -s
   
@@ -27,8 +27,8 @@
 
 **Debugging**
 
-- Set "debugger" word anywhere you want execution stop. 
-- Run the program.
+- Place the word "debugger" anywhere you want to stop execution. 
+- Run the program with node inspect (e.g. node **inspect** ./bin/index.js -c 100 -s AS).
 - Open Chrome and type "chrome://inspect/#devices" in the address bar.
 - Under configure section import following:
     - localhost:9229
