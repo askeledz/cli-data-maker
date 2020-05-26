@@ -20,5 +20,7 @@
 **e.g.**
     
     > node ./bin/index.js -c 100 -s
+    OR
+    > cdm -c 100 -s
   
     > Results: Sample: ESP1590489444297 Time: 0:30
