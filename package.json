@@ -19,7 +19,7 @@
     "cdm": "./bin/index.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "boxen": "^4.0.0",
     "btoa": "^1.2.1",
     "chai": "^4.2.0",
